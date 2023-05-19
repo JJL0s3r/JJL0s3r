@@ -50,4 +50,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/JJL0s3r/blob/output/github-contribution-grid-snake.svg)

@@ -55,3 +55,4 @@
 </div>
 </div>
     
+![Snake animation](https://github.com/JJL0s3r/JJL0s3r/blob/output/github-contribution-grid-snake.svg)

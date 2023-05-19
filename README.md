@@ -1,4 +1,4 @@
-### Olá! Eu sou o Araujo (JJL0s3r)👋
+### Salve, men! Tô guardando meus códigos aqui. Se quiser dar uma olhada, fica à vontade! (Só não copia!) 👋
 
 
 - 🔭 Hoje trabalho com Back-end e Marketing Digital (PLR)

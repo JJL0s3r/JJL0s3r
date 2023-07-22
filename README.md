@@ -1,8 +1,8 @@
 ### Salve, men! Tô guardando meus códigos aqui. Se quiser dar uma olhada, fica à vontade! (Só não copiar que tá dboa!) 🧑‍💻
 
 
-- 🔭 Hoje trabalho com Front-end, Back-end e Marketing Digital (PLR)
-- 🌱 Estudando Hacking
+- 🔭 Hoje trabalho com Front-end, Back-end e Hacking
+- 🌱 Estudando Marketing Digital
 
 <!--
 <div>
